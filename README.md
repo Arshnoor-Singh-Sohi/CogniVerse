@@ -1,17 +1,26 @@
-# 🧠 CogniVerse - Your Complete AI Conversation Universe
-
 <div align="center">
 
-![CogniVerse Banner](https://via.placeholder.com/800x200/1E88E5/FFFFFF?text=CogniVerse+-+AI+Conversation+Universe)
+```
+ ██████╗ ██████╗  ██████╗ ███╗   ██╗██╗██╗   ██╗███████╗██████╗ ███████╗███████╗
+██╔════╝██╔═══██╗██╔════╝ ████╗  ██║██║██║   ██║██╔════╝██╔══██╗██╔════╝██╔════╝
+██║     ██║   ██║██║  ███╗██╔██╗ ██║██║██║   ██║█████╗  ██████╔╝███████╗█████╗  
+██║     ██║   ██║██║   ██║██║╚██╗██║██║╚██╗ ██╔╝██╔══╝  ██╔══██╗╚════██║██╔══╝  
+╚██████╗╚██████╔╝╚██████╔╝██║ ╚████║██║ ╚████╔╝ ███████╗██║  ██║███████║███████╗
+ ╚═════╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═══╝  ╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝
+```
+
+# 🧠 Your Complete AI Conversation Universe
 
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![Google AI](https://img.shields.io/badge/Google%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://ai.google.dev/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
-**Transform simple conversations into intelligent, multi-modal AI experiences**
+### 🚀 Transform simple conversations into intelligent, multi-modal AI experiences
 
-[🚀 Live Demo](https://your-demo-link.streamlit.app) • [📖 Documentation](docs/) • [🐛 Report Bug](issues/) • [💡 Request Feature](issues/)
+[🌟 Live Demo](https://your-demo-link.streamlit.app) • [📚 Documentation](docs/) • [🐛 Report Issues](issues/) • [💡 Request Features](issues/)
+
+---
 
 </div>
 
