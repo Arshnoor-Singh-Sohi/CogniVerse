@@ -1,0 +1,33 @@
+# Core Streamlit and AI Dependencies
+streamlit>=1.28.0
+google-generativeai>=0.3.0
+python-dotenv>=1.0.0
+
+# Document Processing
+PyPDF2>=3.0.0
+pdfplumber>=0.9.0
+python-docx>=0.8.11
+
+# Data Processing and Analysis
+pandas>=2.0.0
+numpy>=1.24.0
+openpyxl>=3.1.0  # For Excel file support
+
+# Image Processing (Optional - for OCR and image analysis)
+Pillow>=10.0.0
+pytesseract>=0.3.10  # Requires tesseract-ocr system installation
+
+# Additional Utilities
+requests>=2.31.0
+pathlib2>=2.3.7  # For Python 3.7 compatibility
+typing-extensions>=4.5.0
+
+# Development and Testing (Optional)
+pytest>=7.4.0
+black>=23.0.0
+flake8>=6.0.0
+
+# Optional: Advanced features
+# plotly>=5.15.0  # For advanced charts and visualizations
+# altair>=5.0.0   # For alternative charting
+# scikit-learn>=1.3.0  # For ML features
